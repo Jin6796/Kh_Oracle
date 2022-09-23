@@ -1,0 +1,6 @@
+MEM_NO,MEM_ID,MEM_PW,MEM_NAME
+3,banana,123,바나나
+1,apple,123,사과
+2,tomato,123,토마토
+4,peach,1388,복숭아
+5,nice,123,나신입

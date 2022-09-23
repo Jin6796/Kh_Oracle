@@ -1,0 +1,23 @@
+
+다음에 접속됨: Oracle Database 11g Enterprise Edition Release 11.1.0.7.0 - Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+익스포트 파일은 규정 경로를 거쳐 EXPORT:V11.01.00 에 의해 생성되었습니다
+KO16MSWIN949 문자집합과 AL16UTF16 NCHAR 문자 집합에 임포트가 완성되었습니다
+. VIDEO2022 객체를 VIDEO2022(으)로 임포트하는 중입니다
+. . 테이블                   "HD_GENRE_T"(를)을 임포트 중
+                                                            6 행이 임포트되었습니다
+. . 테이블                   "HD_GRADE_T"(를)을 임포트 중
+                                                            3 행이 임포트되었습니다
+. . 테이블                   "HD_MOVIE_T"(를)을 임포트 중
+                                                            4 행이 임포트되었습니다
+. . 테이블       "HD_VIDEO_LOAN_DETAIL_T"(를)을 임포트 중
+                                                           12 행이 임포트되었습니다
+. . 테이블         "HD_VIDEO_LOAN_MAST_T"(를)을 임포트 중
+                                                            9 행이 임포트되었습니다
+. . 테이블            "HD_VIDEO_MEMBER_T"(를)을 임포트 중
+                                                            5 행이 임포트되었습니다
+. . 테이블                   "HD_VIDEO_T"(를)을 임포트 중
+                                                           16 행이 임포트되었습니다
+제약 조건을 사용으로 설정에 대한 정보...
+임포트가 경고 없이 정상적으로 종료되었습니다.
